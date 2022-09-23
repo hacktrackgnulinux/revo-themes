@@ -1,0 +1,14 @@
+Source: revo-theme
+Section: gnome
+Priority: optional
+Maintainer: HackTrack Team (HackTrack) <team@hacktracklinux.org>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.7
+Homepage: https://github.com/hacktrackgnulinux/revo-theme
+Vcs-Browser: https://github.com/hacktrackgnulinux/revo-theme.git
+
+Package: revo-theme
+Architecture: i386 amd64
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: HackTrack GTK+2, GTK+3, GTK+4 MATE DE Theme.
+ Paket secara bawaan berupa GTK Theme.

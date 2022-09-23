@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Revo
+Comment=Revo Dark Theme 
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Revo-Dark
+MetacityTheme=Revo-Dark
+IconTheme=Revo-Dark
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close
