@@ -6,7 +6,6 @@
 override_dh_auto_build:
 	# Fix file permissions, just in case
 	find Revo -type f -exec chmod 0644 '{}' \;
-    find Revo-Dark -type f -exec chmod 0644 '{}' \;
-
+	
 override_dh_builddeb:
 	dh_builddeb -- -Zxz -z9

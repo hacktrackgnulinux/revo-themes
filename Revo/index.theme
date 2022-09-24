@@ -1,12 +1,11 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
 Name=Revo
-Comment=Revo Light Theme 
+Comment=Revo based on Clearlooks Revamp, Elementary and Faenza.
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
 GtkTheme=Revo
 MetacityTheme=Revo
 IconTheme=Revo
-CursorTheme=DMZ-White
-ButtonLayout=menu:minimize,maximize,close
+CursorTheme=default

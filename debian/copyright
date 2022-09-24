@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: revo-theme
+Upstream-Name: revo-themes
 Upstream-Contact: HackTrack Team (HackTrack) <team@hacktracklinux.org>
-Source: https://github.com/hacktrackgnulinux/revo-theme
+Source: https://github.com/hacktrackgnulinux/revo-themes
 
 Copyright:  2022, HackTrack Team (HackTrack) <team@hacktracklinux.org>
             2017-2020, Dindin Hernawan
