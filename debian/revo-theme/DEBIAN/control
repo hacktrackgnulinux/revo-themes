@@ -1,0 +1,12 @@
+Package: revo-theme
+Source: revo-themes
+Version: 2022.1
+Architecture: i386
+Maintainer: HackTrack Team (HackTrack) <team@hacktracklinux.org>
+Installed-Size: 1496
+Depends: revo-icons
+Section: gnome
+Priority: optional
+Homepage: https://github.com/hacktrackgnulinux/revo-themes
+Description: HackTrack GTK+2, GTK+3, GTK+4 MATE DE Theme.
+ Paket secara bawaan berupa GTK Theme.

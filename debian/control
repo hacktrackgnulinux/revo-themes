@@ -7,8 +7,7 @@ Standards-Version: 3.9.7
 Homepage: https://github.com/hacktrackgnulinux/revo-themes
 Vcs-Browser: https://github.com/hacktrackgnulinux/revo-themes.git
 
-Package: revo-theme
+Package: revo-themes
 Architecture: i386 amd64
-Depends: revo-icons
 Description: HackTrack GTK+2, GTK+3, GTK+4 MATE DE Theme.
  Paket secara bawaan berupa GTK Theme.
