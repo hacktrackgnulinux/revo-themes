@@ -3,3 +3,8 @@
 ./Revo/gtk-4.0
 ./Revo/index.theme
 ./Revo/metacity-1
+./Revo-Dark/gtk-2.0
+./Revo-Dark/gtk-3.0
+./Revo-Dark/gtk-4.0
+./Revo-Dark/index.theme
+./Revo-Dark/metacity-1

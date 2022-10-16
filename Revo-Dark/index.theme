@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Revo Dark
+Comment=Revo Dark based Greybird dark theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Revo-Dark
+MetacityTheme=Revo-Dark
+IconTheme=Revo-Dark
+CursorTheme=Adwaita
+ButtonLayout=:minimize,maximize,close

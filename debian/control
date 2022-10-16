@@ -8,6 +8,6 @@ Homepage: https://github.com/hacktrackgnulinux/revo-themes
 Vcs-Browser: https://github.com/hacktrackgnulinux/revo-themes.git
 
 Package: revo-themes
-Architecture: i386 amd64
+Architecture: amd64
 Description: HackTrack GTK+2, GTK+3, GTK+4 MATE DE Theme.
  Paket secara bawaan berupa GTK Theme.

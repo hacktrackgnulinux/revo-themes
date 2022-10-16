@@ -1,3 +1,10 @@
+revo-themes (2022.2) return; urgency=medium
+
+  * Pengepakan paket buat rilis "return" stable
+  * Add Revo Dark Themes
+
+ -- HackTrack Team (HackTrack) <team@hacktracklinux.org>  Sun, 16 Oct 2022 03:05:49 +0700 
+ 
 revo-themes (2022.1) return; urgency=medium
 
   * Pengepakan paket buat rilis "return" stable
